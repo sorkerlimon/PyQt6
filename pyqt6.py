@@ -8,3 +8,4 @@ window.setWindowTitle("Sorker Limon")
 window.show()
 
 app.exec()
+hello
